@@ -1,0 +1,84 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1920" height="85" viewBox="0 0 1920 85">
+  <defs>
+    <clipPath id="clip-path">
+      <rect id="Rectangle_109" data-name="Rectangle 109" width="1920" height="85" transform="translate(0 776)" fill="#fff" stroke="#707070" stroke-width="1"/>
+    </clipPath>
+    <clipPath id="clip-path-2">
+      <rect id="Rectangle_108" data-name="Rectangle 108" width="1923" height="80" transform="translate(0 781)" fill="#fff" stroke="#707070" stroke-width="1"/>
+    </clipPath>
+  </defs>
+  <g id="Group_2" data-name="Group 2" transform="translate(0 -776)">
+    <g id="Mask_Group_2" data-name="Mask Group 2" clip-path="url(#clip-path)">
+      <g id="Group_1" data-name="Group 1">
+        <rect id="Rectangle_107" data-name="Rectangle 107" width="1968" height="799" transform="translate(-12)" fill="#dff0f7"/>
+        <g id="Mask_Group_1" data-name="Mask Group 1" clip-path="url(#clip-path-2)">
+          <path id="Path_5396" data-name="Path 5396" d="M-173.3,960.813s75.414-61.784,330-67.85,250.163,41.585,507.286,43.584,306.684-43.584,450.177-43.584,143.252,43.584,264.065,43.584,133.263-50.953,219.186-43.584S1762.7,966.022,1762.7,966.022l-1606,86.737Z" transform="translate(1745.699 1753.259) rotate(180)" fill="#dff0f7"/>
+          <g id="Ellipse_37" data-name="Ellipse 37" transform="translate(1834.367 676.777)" fill="rgba(255,255,255,0.1)" stroke="#fff" stroke-width="1" opacity="0.15">
+            <ellipse cx="9.362" cy="9.362" rx="9.362" ry="9.362" stroke="none"/>
+            <ellipse cx="9.362" cy="9.362" rx="8.862" ry="8.862" fill="none"/>
+          </g>
+          <g id="Ellipse_38" data-name="Ellipse 38" transform="translate(1830.856 673.266)" fill="rgba(255,255,255,0.1)" stroke="#fff" stroke-width="1" opacity="0.15">
+            <ellipse cx="12.872" cy="12.872" rx="12.872" ry="12.872" stroke="none"/>
+            <ellipse cx="12.872" cy="12.872" rx="12.372" ry="12.372" fill="none"/>
+          </g>
+          <g id="Ellipse_39" data-name="Ellipse 39" transform="translate(1827.541 669.951)" fill="rgba(255,255,255,0.1)" stroke="#fff" stroke-width="1" opacity="0.15">
+            <circle cx="16.188" cy="16.188" r="16.188" stroke="none"/>
+            <circle cx="16.188" cy="16.188" r="15.688" fill="none"/>
+          </g>
+          <g id="Ellipse_40" data-name="Ellipse 40" transform="translate(1823.542 665.953)" fill="rgba(255,255,255,0.1)" stroke="#fff" stroke-width="1" opacity="0.15">
+            <circle cx="20.186" cy="20.186" r="20.186" stroke="none"/>
+            <circle cx="20.186" cy="20.186" r="19.686" fill="none"/>
+          </g>
+          <g id="Ellipse_41" data-name="Ellipse 41" transform="translate(1817.789 660.199)" fill="rgba(255,255,255,0.1)" stroke="#fff" stroke-width="1" opacity="0.15">
+            <ellipse cx="25.939" cy="25.939" rx="25.939" ry="25.939" stroke="none"/>
+            <ellipse cx="25.939" cy="25.939" rx="25.439" ry="25.439" fill="none"/>
+          </g>
+          <g id="Ellipse_42" data-name="Ellipse 42" transform="translate(1813.303 655.713)" fill="rgba(255,255,255,0.1)" stroke="#fff" stroke-width="1" opacity="0.15">
+            <circle cx="30.425" cy="30.425" r="30.425" stroke="none"/>
+            <circle cx="30.425" cy="30.425" r="29.925" fill="none"/>
+          </g>
+          <g id="Ellipse_43" data-name="Ellipse 43" transform="translate(1808.72 651.13)" fill="rgba(255,255,255,0.1)" stroke="#fff" stroke-width="1" opacity="0.15">
+            <circle cx="35.008" cy="35.008" r="35.008" stroke="none"/>
+            <circle cx="35.008" cy="35.008" r="34.508" fill="none"/>
+          </g>
+          <g id="Ellipse_44" data-name="Ellipse 44" transform="translate(1801.504 643.914)" fill="rgba(255,255,255,0.1)" stroke="#fff" stroke-width="1" opacity="0.15">
+            <ellipse cx="42.225" cy="42.225" rx="42.225" ry="42.225" stroke="none"/>
+            <ellipse cx="42.225" cy="42.225" rx="41.725" ry="41.725" fill="none"/>
+          </g>
+          <g id="Ellipse_45" data-name="Ellipse 45" transform="translate(1796.043 638.453)" fill="rgba(255,255,255,0.1)" stroke="#fff" stroke-width="1" opacity="0.15">
+            <circle cx="47.686" cy="47.686" r="47.686" stroke="none"/>
+            <circle cx="47.686" cy="47.686" r="47.186" fill="none"/>
+          </g>
+          <g id="Ellipse_46" data-name="Ellipse 46" transform="translate(1790.679 633.089)" fill="rgba(255,255,255,0.1)" stroke="#fff" stroke-width="1" opacity="0.15">
+            <circle cx="53.049" cy="53.049" r="53.049" stroke="none"/>
+            <circle cx="53.049" cy="53.049" r="52.549" fill="none"/>
+          </g>
+          <g id="Ellipse_47" data-name="Ellipse 47" transform="translate(1785.218 627.628)" fill="rgba(255,255,255,0.1)" stroke="#fff" stroke-width="1" opacity="0.15">
+            <circle cx="58.51" cy="58.51" r="58.51" stroke="none"/>
+            <circle cx="58.51" cy="58.51" r="58.01" fill="none"/>
+          </g>
+          <g id="Ellipse_48" data-name="Ellipse 48" transform="translate(1780.05 622.46)" fill="rgba(255,255,255,0.1)" stroke="#fff" stroke-width="1" opacity="0.15">
+            <circle cx="63.678" cy="63.678" r="63.678" stroke="none"/>
+            <circle cx="63.678" cy="63.678" r="63.178" fill="none"/>
+          </g>
+          <g id="Ellipse_49" data-name="Ellipse 49" transform="translate(1775.564 617.974)" fill="rgba(255,255,255,0.1)" stroke="#fff" stroke-width="1" opacity="0.15">
+            <ellipse cx="68.164" cy="68.164" rx="68.164" ry="68.164" stroke="none"/>
+            <ellipse cx="68.164" cy="68.164" rx="67.664" ry="67.664" fill="none"/>
+          </g>
+          <g id="Ellipse_50" data-name="Ellipse 50" transform="translate(1770.298 612.708)" fill="rgba(255,255,255,0.1)" stroke="#fff" stroke-width="1" opacity="0.15">
+            <circle cx="73.43" cy="73.43" r="73.43" stroke="none"/>
+            <circle cx="73.43" cy="73.43" r="72.93" fill="none"/>
+          </g>
+          <g id="Ellipse_51" data-name="Ellipse 51" transform="translate(1764.642 607.052)" fill="rgba(255,255,255,0.1)" stroke="#fff" stroke-width="1" opacity="0.15">
+            <circle cx="79.086" cy="79.086" r="79.086" stroke="none"/>
+            <circle cx="79.086" cy="79.086" r="78.586" fill="none"/>
+          </g>
+          <g id="Ellipse_52" data-name="Ellipse 52" transform="translate(1758.499 600.909)" fill="rgba(255,255,255,0.1)" stroke="#fff" stroke-width="1" opacity="0.15">
+            <ellipse cx="85.23" cy="85.23" rx="85.23" ry="85.23" stroke="none"/>
+            <ellipse cx="85.23" cy="85.23" rx="84.73" ry="84.73" fill="none"/>
+          </g>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>

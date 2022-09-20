@@ -1,0 +1,53 @@
+.faqs-items {
+  float: left;
+  width: 100%;
+}
+.faqs-items .item {
+  border: 1px solid #e0dada
+}
+.faqs-items .question {
+  padding: 15px 20px;
+  display: none;
+  border-top: 1px solid #ccc;
+}
+.faqs-items .item > a {
+  font-size: 14px;
+  line-height: 1.5;
+  font-weight: 700;
+  padding: 15px 20px;
+  display: block;
+  background: #efefef;
+}
+.faqs-items .item > a span:before {
+  margin-right: 15px;
+  font-size: 10px;
+}
+.faqs-items .item > a:hover {
+  text-decoration: none;
+}
+.faqcat-title {
+  margin-top: 0px;
+  font-size: 18px;
+  text-transform: uppercase;
+  line-height: 1.5;
+  margin-bottom: 15px;
+  padding-bottom: 10px;
+  border-bottom: 1px solid #ddd;
+  float: left;
+  width: 100%;
+  position: relative;
+  color: #d60d46;
+  font-weight: bold;
+  margin-top: 15px;
+}
+.faqcat-title i {
+  float: left;
+  width: 2.15em;
+  border-bottom: 1px solid #d60d46;
+  position: absolute;
+  bottom: -1px;
+  z-index: 99;
+}
+.faqs-items .no-question > a {
+  font-weight: normal;
+}

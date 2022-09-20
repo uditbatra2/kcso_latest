@@ -1,0 +1,99 @@
+/******
+CUSTOM CSS FRONT END
+******/
+.product-item .product-info .price-box .old-price .price, .product-list-item .product-info .price-box .old-price .price {font-size: 14px !important;color: #c5c5c5 !important;line-height: 24px;
+font-weight: normal !important;
+}
+.product-item .product-info, .product-list-item .product-info {
+padding-bottom: 10px;
+text-align: center;
+background-color: initial;
+}
+.block-products .owl-carousel .product-item .item-inner .product-info .price-box .special-price .price {
+color: #333 !important;
+}
+.social-list li a {
+-webkit-transition: all 0.2s ease;
+-moz-transition: all 0.2s ease;
+transition: all 0.2s ease;
+background: #000;
+border-radius: 100%;
+display: block;
+height: 40px;
+line-height: 30px;
+width: 40px;
+text-align: center;
+color: #333 !important;
+text-decoration: none;
+padding: 10px 0px;
+color: #fff !important;
+}
+.social-list li:hover.social-icons-twitter a {
+background: #1aa9e1;
+}
+.social-list li:hover.social-icons-facebook a {
+background: #3b5a9a;
+}
+.social-list li:hover.social-icons-linkedin a {
+background: #0073b2;
+}
+.social-list li:hover.social-icons-instagram a {
+background: #f09433; 
+background: -moz-linear-gradient(45deg, #f09433 0%, #e6683c 25%, #dc2743 50%, #cc2366 75%, #bc1888 100%); 
+background: -webkit-linear-gradient(45deg, #f09433 0%,#e6683c 25%,#dc2743 50%,#cc2366 75%,#bc1888 100%); 
+background: linear-gradient(45deg, #f09433 0%,#e6683c 25%,#dc2743 50%,#cc2366 75%,#bc1888 100%); 
+filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#f09433', endColorstr='#bc1888',GradientType=1 )
+}
+
+.product-item .item-inner .clearfix {
+    background-color: initial !important;
+}
+
+.info .legend {
+    padding-bottom: 10px !important;
+    margin-bottom: 15px !important;
+    font-size: 18px !important;
+    color: #222 !important;
+    text-transform: capitalize;
+    font-weight: 600 !important;
+    border-bottom: 1px solid #ddd !important;
+}
+.account .info {
+    border: 1px solid #ddd;
+    padding: 20px;
+}
+
+.account .password {
+    border: 1px solid #ddd;
+    padding: 20px;
+}
+
+.password .legend1 {
+    padding-bottom: 10px !important;
+    margin-bottom: 15px !important;
+    font-size: 18px !important;
+    color: #222;
+    text-transform: capitalize !important;
+    font-weight: 600 !important;
+    border-bottom: 1px solid #ddd !important;
+}
+.label {
+    font-size: 14px !important;
+    padding: 0;
+    text-align: left;
+}
+
+.fieldset3 .legend3 {
+    padding-bottom: 10px !important;
+    margin-bottom: 15px !important;
+    font-size: 18px !important;
+    color: #222;
+    text-transform: capitalize !important;
+    font-weight: 600 !important;
+    border-bottom: 1px solid #ddd !important;
+}
+
+.fieldset5 {
+    border: 1px solid #ddd !important;
+    padding: 20px !important;
+}
